@@ -2,7 +2,7 @@ Etekcity Voltson (ESW01-EU)
 ===========================
 
 .. seo::
-    :description: Configure an Etekcity Voltson and calculate the missing Current sensot
+    :description: Configure an Etekcity Voltson and calculate the missing Current sensor
     :image: esw01-eu.jpg
     :keywords: Etekcity, Voltson, ESW01, ESW01-EU, HLW8012, Home Assistant, ESPHome
 
