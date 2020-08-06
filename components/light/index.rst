@@ -301,7 +301,7 @@ Configuration variables:
 .. _light-is_off_condition:
 
 ``light.is_on`` / ``light.is_off`` Condition
-********************************************
+--------------------------------------------
 
 This :ref:`Condition <config-condition>` checks if the given light is ON or OFF. OFF means
 that the light is completely OFF, and ON means that the light is emitting at least a bit of light.
